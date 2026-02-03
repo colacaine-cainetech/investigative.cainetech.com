@@ -14,4 +14,6 @@ Note that information gathered about something illegal, WILL be sent to the appr
 * [Fempire Incident](https://avacaine.github.io/fallofthefempire)
 * [PiqaRL Incident](https://avacaine.github.io/PiqaRL)
 <br>
-Get in contact via [ava@cainetech.com](mailto:ava@cainetech.com)
+<br>
+<br>
+Contact: [ava@cainetech.com](mailto:ava@cainetech.com)
