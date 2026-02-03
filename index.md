@@ -11,5 +11,7 @@ Experienced investigator/s, previous major contributions to privately investigat
 Note that information gathered about something illegal, WILL be sent to the appropriate authorities; otherwise information will remain private to the client.
 <br>
 ## Sample incident documentations
-* [Fempire Incident](https://avacaine.github.io/fall-of-the-fempire)
+* [Fempire Incident](https://avacaine.github.io/fallofthefempire)
 * [PiqaRL Incident](https://avacaine.github.io/PiqaRL)
+<br>
+Get in contact via [ava@cainetech.com](mailto:ava@cainetech.com)
